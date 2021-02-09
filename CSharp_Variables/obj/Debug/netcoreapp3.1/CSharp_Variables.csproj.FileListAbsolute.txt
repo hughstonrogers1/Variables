@@ -1,0 +1,13 @@
+C:\Users\hughs\OneDrive\Desktop\Repo\CSharp_Variables\CSharp_Variables\obj\Debug\netcoreapp3.1\CSharp_Variables.csprojAssemblyReference.cache
+C:\Users\hughs\OneDrive\Desktop\Repo\CSharp_Variables\CSharp_Variables\obj\Debug\netcoreapp3.1\CSharp_Variables.AssemblyInfoInputs.cache
+C:\Users\hughs\OneDrive\Desktop\Repo\CSharp_Variables\CSharp_Variables\obj\Debug\netcoreapp3.1\CSharp_Variables.AssemblyInfo.cs
+C:\Users\hughs\OneDrive\Desktop\Repo\CSharp_Variables\CSharp_Variables\obj\Debug\netcoreapp3.1\CSharp_Variables.csproj.CoreCompileInputs.cache
+C:\Users\hughs\OneDrive\Desktop\Repo\CSharp_Variables\CSharp_Variables\bin\Debug\netcoreapp3.1\CSharp_Variables.exe
+C:\Users\hughs\OneDrive\Desktop\Repo\CSharp_Variables\CSharp_Variables\bin\Debug\netcoreapp3.1\CSharp_Variables.deps.json
+C:\Users\hughs\OneDrive\Desktop\Repo\CSharp_Variables\CSharp_Variables\bin\Debug\netcoreapp3.1\CSharp_Variables.runtimeconfig.json
+C:\Users\hughs\OneDrive\Desktop\Repo\CSharp_Variables\CSharp_Variables\bin\Debug\netcoreapp3.1\CSharp_Variables.runtimeconfig.dev.json
+C:\Users\hughs\OneDrive\Desktop\Repo\CSharp_Variables\CSharp_Variables\bin\Debug\netcoreapp3.1\CSharp_Variables.dll
+C:\Users\hughs\OneDrive\Desktop\Repo\CSharp_Variables\CSharp_Variables\bin\Debug\netcoreapp3.1\CSharp_Variables.pdb
+C:\Users\hughs\OneDrive\Desktop\Repo\CSharp_Variables\CSharp_Variables\obj\Debug\netcoreapp3.1\CSharp_Variables.dll
+C:\Users\hughs\OneDrive\Desktop\Repo\CSharp_Variables\CSharp_Variables\obj\Debug\netcoreapp3.1\CSharp_Variables.pdb
+C:\Users\hughs\OneDrive\Desktop\Repo\CSharp_Variables\CSharp_Variables\obj\Debug\netcoreapp3.1\CSharp_Variables.genruntimeconfig.cache
